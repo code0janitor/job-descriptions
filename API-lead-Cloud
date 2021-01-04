@@ -1,0 +1,36 @@
+API-lead-Cloud
+=======================
+As API lead, the person is required to engage and manage teams working with cross-functional architects, business partners, risk & compliance, and SMEs from different domains/founctions.
+
+Him/her primary responsibilities are 
+* design new and tranformation plan for existing legacy apps into API
+* capture the existing and new api/application logical landscape
+* capture the existing and new api/application business context model
+* design & help onboarding services to the API Gateway for high data-volume and high throughput services
+* assist team to conduct PoCs and development and unit test of APIs
+* design the api mocking and unit-functional testing process
+* help team integrating operational and monitoring services
+* helping during client(s') onboard to use the APIs,
+* educate and assist quality and performance team in integration
+* maintaining and refactoring existing features to modern age APIs
+
+
+Required to have
+* Experience of leading Micro-Service development and delivery using Java(with related framework like SpringBoot)
+* Experience of integrating CI/CD for API promotions
+* Experience of designing and delivering API integration
+* Experience with GIT
+* Experience of Devops processes
+* Experience of integrating monitoring tools 
+* API security implementation process, tools/framework and integration
+* Knowledge of AWS 
+* AWS serverless platform knowhow
+* Strong written and verbal communication skills
+* Strong interpersonal and time management skills
+
+
+Qualifications:
+* Bachelor's degree in Computer Science, Computer Engineering or equivalent.
+* 7+ years application development experience using Java8+ & Spring framework
+* 4+ years working experience on Agile scrum teams
+* Experience delivering & integrating external partner via API as channel
