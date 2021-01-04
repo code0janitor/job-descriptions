@@ -1,0 +1,33 @@
+API-developer-Cloud
+=======================
+As API developer, the person is required to engage and work with cross-functional teams with presence of architects, business partners, risk & compliance, and SMEs from different domains/founctions.
+
+Him/her primary responsibilities are 
+* help onboarding services to the API Gateway,
+* developing and unit testing of APIs,(High data-volume / High throughput)
+* developing mocks for APIs and unit-functional testing
+* integrating operational and monitoring services
+* helping during client(s') onboard to use the APIs,
+* educate and assist quality and performance team in integration
+* maintaining and refactoring existing features to modern age APIs
+
+
+Required to have
+* Experience of Micro-Service development and delivery using Java(with related framework like SpringBoot)
+* Experience of integrating CI/CD for API promotions
+* Experience of API integration
+* Experience with GIT
+* Understanding of Devops processes
+* Experience with monitoring tools and integration
+* API security implementation process, tools/framework and integration
+* Working knowledge of AWS 
+* AWS serverless platform knowhow
+* Strong written and verbal communication skills
+* Strong interpersonal and time management skills
+
+
+Qualifications:
+* Bachelor's degree in Computer Science, Computer Engineering or equivalent.
+* 3-5 years application development experience using Java8+ & Spring framework
+* 2+ years working experience on Agile scrum teams
+* Experience delivering & integrating external partner via API as channel
